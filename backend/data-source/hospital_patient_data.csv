@@ -1,0 +1,11 @@
+PatientID,Name,Sex,Age,Resident,EnterDateTime,LengthOfStay_Hours,Department,Diagnosis,Insurance
+P001,Jeffery Lambert,Female,60,No,2025-05-09 17:03,32,Oncology,Migraine,No
+P002,Dustin Hernandez,Female,37,Yes,2025-05-01 13:27,29,Internal Medicine,Heart Surgery,No
+P003,Jessica Farrell,Female,84,Yes,2025-05-14 23:39,16,ENT,Hypertension,No
+P004,Hannah Walsh,Male,48,No,2025-05-10 08:30,19,Emergency,Routine Checkup,Yes
+P005,John Obrien,Female,89,No,2025-05-05 16:53,56,Neurology,Child Fever,No
+P006,David Newman,Male,87,No,2025-05-09 10:46,5,Gynecology,Rash,No
+P007,Philip Austin,Male,17,No,2025-05-03 10:53,34,Emergency,Child Fever,Yes
+P008,John Montoya,Female,64,No,2025-05-29 04:41,22,Internal Medicine,Allergy,No
+P009,Jay Carr,Male,72,No,2025-05-03 07:32,46,Pediatrics,Migraine,No
+P010,Scott Mccullough,Male,28,No,2025-05-12 19:21,9,Orthopedics,Rash,No

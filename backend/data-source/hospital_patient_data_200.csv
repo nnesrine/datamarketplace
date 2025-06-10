@@ -1,0 +1,201 @@
+PatientID,Name,Sex,Age,Resident,EnterDateTime,LengthOfStay_Hours,Department,Diagnosis,Insurance
+P001,Joseph Lamb,Female,80,No,2025-05-06 22:54,57,Pediatrics,Hypertension,Yes
+P002,Caitlin Campbell,Female,65,Yes,2025-05-17 07:15,74,Neurology,Heart Surgery,No
+P003,Jeremy Kelley,Female,34,No,2025-05-25 23:20,45,Orthopedics,Migraine,No
+P004,Colton Martinez,Male,13,No,2025-05-12 20:41,88,Oncology,Migraine,No
+P005,Maria Sullivan,Female,59,No,2025-05-10 08:43,108,Neurology,Cancer Screening,Yes
+P006,Jesse House,Male,29,Yes,2025-05-11 19:54,96,Oncology,Diabetes,Yes
+P007,Tanya Morton,Male,35,No,2025-05-18 07:48,95,Pediatrics,Heart Surgery,No
+P008,Robert Crawford,Male,85,No,2025-05-25 06:25,91,Internal Medicine,Child Fever,Yes
+P009,Chris Jones,Female,25,Yes,2025-05-10 14:54,103,Emergency,Allergy,Yes
+P010,Raymond Bates,Male,50,Yes,2025-05-14 09:17,92,Dermatology,Routine Checkup,No
+P011,Andrew Smith,Female,74,Yes,2025-05-23 11:27,17,ENT,Rash,No
+P012,Shawn Lane,Female,8,Yes,2025-05-16 17:03,34,Neurology,Routine Checkup,Yes
+P013,Christopher Mitchell,Male,43,No,2025-05-22 14:23,23,Internal Medicine,Routine Checkup,No
+P014,Daniel Ross,Male,1,No,2025-05-05 21:23,30,Internal Medicine,Rash,Yes
+P015,Veronica Phillips,Female,55,No,2025-05-07 04:26,75,Cardiology,Rash,No
+P016,James Baldwin,Male,64,Yes,2025-05-02 18:56,57,ENT,Hypertension,Yes
+P017,Jacqueline Harris,Female,56,No,2025-05-05 05:05,24,Emergency,Child Fever,Yes
+P018,Anthony Coleman,Male,6,Yes,2025-05-19 20:53,115,Internal Medicine,Child Fever,Yes
+P019,Tristan Newton,Male,81,No,2025-05-23 10:04,58,ENT,Heart Surgery,No
+P020,Stephanie Phillips,Female,70,Yes,2025-05-22 05:34,93,Neurology,Hypertension,No
+P021,Katie Webster,Male,18,No,2025-05-25 14:16,36,Oncology,Diabetes,Yes
+P022,Amanda Saunders,Male,14,Yes,2025-05-20 17:54,67,Neurology,Allergy,Yes
+P023,Frank Stewart,Male,63,No,2025-05-24 07:59,83,Dermatology,Rash,No
+P024,Dana Floyd,Male,60,No,2025-05-18 21:37,55,Emergency,Allergy,Yes
+P025,Jason Wilson,Male,52,Yes,2025-05-15 08:10,15,Emergency,Migraine,Yes
+P026,Ashley Gardner,Female,76,Yes,2025-05-17 06:25,22,Dermatology,Heart Surgery,No
+P027,Katherine Rose,Male,80,Yes,2025-05-25 04:52,40,Internal Medicine,Hypertension,Yes
+P028,Nicholas Harrell,Female,34,No,2025-05-27 13:28,27,Orthopedics,Migraine,No
+P029,Jacob Barnett,Female,82,Yes,2025-05-23 20:04,116,Dermatology,Hypertension,Yes
+P030,Vincent Olson,Female,11,No,2025-05-08 19:48,83,Oncology,Rash,Yes
+P031,Holly Simpson,Male,64,No,2025-05-28 13:51,116,Emergency,Child Fever,No
+P032,Joseph Olson,Male,59,No,2025-05-11 04:26,117,Gynecology,Fracture,No
+P033,James Reed,Female,6,Yes,2025-05-05 05:18,19,Internal Medicine,Hypertension,Yes
+P034,Rebecca Kim,Male,87,No,2025-05-13 18:54,84,Oncology,Fracture,Yes
+P035,Stephanie Lucas,Male,33,No,2025-05-13 04:28,74,Internal Medicine,Heart Surgery,Yes
+P036,Kimberly Padilla,Female,19,Yes,2025-05-14 22:52,49,Cardiology,Heart Surgery,No
+P037,Christine Cox,Female,23,Yes,2025-05-17 21:20,73,ENT,Diabetes,Yes
+P038,Deanna Hardin,Male,24,Yes,2025-05-27 18:33,66,Cardiology,Heart Surgery,Yes
+P039,Brandon Cooley,Female,27,Yes,2025-05-30 06:15,66,Internal Medicine,Allergy,No
+P040,Kristin Moore,Female,77,Yes,2025-05-21 05:42,88,Pediatrics,Routine Checkup,No
+P041,Thomas Ellison,Female,14,No,2025-05-15 04:23,33,Oncology,Allergy,No
+P042,Victoria French,Male,3,Yes,2025-05-04 23:38,31,Gynecology,Child Fever,No
+P043,Dakota Smith,Male,14,No,2025-05-25 07:54,44,Orthopedics,Rash,Yes
+P044,Teresa Jones,Female,31,No,2025-05-10 15:55,92,Emergency,Rash,Yes
+P045,Andrew Torres,Female,85,No,2025-05-07 11:58,117,Gynecology,Rash,Yes
+P046,Betty Foley,Female,52,Yes,2025-05-25 09:44,11,Oncology,Heart Surgery,Yes
+P047,Sally Crawford,Male,32,Yes,2025-05-24 02:16,116,Emergency,Rash,Yes
+P048,Katherine Simmons MD,Female,67,No,2025-05-19 12:24,103,Cardiology,Fracture,Yes
+P049,Justin Wilson MD,Female,68,No,2025-05-08 19:18,74,Orthopedics,Child Fever,No
+P050,Patrick Kelly,Female,11,Yes,2025-05-13 06:24,62,Orthopedics,Child Fever,Yes
+P051,Logan Weiss,Female,1,Yes,2025-05-02 12:09,9,Emergency,Heart Surgery,No
+P052,Juan Garcia,Male,84,Yes,2025-05-06 23:52,67,Oncology,Migraine,Yes
+P053,Kristin Singleton,Female,29,Yes,2025-05-16 12:37,102,Oncology,Migraine,No
+P054,Susan White,Male,44,No,2025-05-26 09:14,103,ENT,Allergy,Yes
+P055,Suzanne Love,Male,9,Yes,2025-05-04 20:45,10,Dermatology,Child Fever,Yes
+P056,Sara Brady,Male,52,Yes,2025-05-12 20:40,68,Neurology,Child Fever,Yes
+P057,Charles Perez,Male,71,Yes,2025-05-10 21:25,104,Gynecology,Rash,No
+P058,James Yang,Female,57,Yes,2025-05-13 23:34,70,ENT,Hypertension,No
+P059,Joshua Johnson,Male,36,No,2025-05-10 10:40,16,Dermatology,Routine Checkup,No
+P060,Dr. Courtney Butler,Male,51,No,2025-05-10 18:42,62,Emergency,Allergy,Yes
+P061,Douglas Martinez,Male,68,No,2025-05-01 10:52,77,Gynecology,Routine Checkup,Yes
+P062,Justin Jensen,Female,58,Yes,2025-05-28 17:39,66,Oncology,Fracture,Yes
+P063,Ashley Becker,Male,82,Yes,2025-05-27 00:09,46,ENT,Routine Checkup,Yes
+P064,Kathryn Evans,Female,12,No,2025-05-07 03:45,102,Dermatology,Cancer Screening,No
+P065,Eric Brady,Male,31,No,2025-05-04 12:52,24,Dermatology,Diabetes,No
+P066,Laura Sanchez,Female,54,No,2025-05-23 18:56,89,ENT,Diabetes,Yes
+P067,Greg Henry,Male,63,No,2025-05-16 03:15,41,ENT,Migraine,No
+P068,Kenneth Bell,Male,13,No,2025-05-03 00:52,81,Pediatrics,Diabetes,No
+P069,John Wright,Male,65,No,2025-05-18 20:12,29,Gynecology,Allergy,Yes
+P070,Mike Hernandez,Female,25,Yes,2025-05-26 03:55,73,Orthopedics,Heart Surgery,Yes
+P071,Ryan Carpenter,Female,59,Yes,2025-05-18 05:06,60,Emergency,Diabetes,No
+P072,Anna Juarez,Male,13,Yes,2025-05-09 03:00,99,ENT,Cancer Screening,Yes
+P073,Misty Munoz,Male,40,No,2025-05-20 16:13,81,ENT,Child Fever,No
+P074,Cheryl Martinez,Female,81,Yes,2025-05-20 23:35,45,Neurology,Migraine,Yes
+P075,Vincent Foster,Female,72,No,2025-05-27 15:08,71,ENT,Rash,No
+P076,Darlene Frederick,Male,85,No,2025-05-30 05:48,13,Gynecology,Fracture,No
+P077,Elizabeth Henderson,Male,4,Yes,2025-05-25 15:28,109,Orthopedics,Fracture,No
+P078,Dr. Elijah Hughes,Male,86,No,2025-05-29 20:48,25,Emergency,Heart Surgery,No
+P079,Hailey Mckenzie,Male,58,No,2025-05-05 16:12,13,Internal Medicine,Migraine,No
+P080,Nicole Wagner,Female,27,Yes,2025-05-20 13:17,73,Pediatrics,Migraine,Yes
+P081,John Smith,Female,70,No,2025-05-13 22:09,22,Gynecology,Diabetes,No
+P082,Sherry Pittman,Male,5,Yes,2025-05-11 18:10,75,Pediatrics,Child Fever,No
+P083,April Silva,Female,21,Yes,2025-05-04 10:10,72,Gynecology,Rash,No
+P084,Fred Hodges,Female,59,Yes,2025-05-13 12:20,110,Dermatology,Diabetes,Yes
+P085,Charles Mcdonald,Female,19,No,2025-05-09 15:53,37,ENT,Cancer Screening,Yes
+P086,Angela Moore,Male,50,No,2025-05-02 13:04,89,Emergency,Child Fever,No
+P087,Timothy Franklin,Male,48,Yes,2025-05-22 18:48,73,Gynecology,Fracture,Yes
+P088,Julie Rodriguez,Male,90,No,2025-05-03 00:24,31,Oncology,Fracture,Yes
+P089,Bianca Wright,Male,84,Yes,2025-05-18 19:47,114,Neurology,Child Fever,No
+P090,Mrs. Brittany Holden,Female,64,No,2025-05-21 08:17,111,Pediatrics,Child Fever,No
+P091,April Rodriguez,Male,89,No,2025-05-01 10:41,32,Internal Medicine,Migraine,Yes
+P092,Thomas Reilly,Male,25,No,2025-05-21 09:33,106,Neurology,Hypertension,Yes
+P093,David Wood,Female,15,Yes,2025-05-19 21:39,46,Internal Medicine,Diabetes,Yes
+P094,Scott Carlson,Female,65,Yes,2025-05-23 12:20,70,Cardiology,Fracture,Yes
+P095,Richard Jenkins,Female,63,No,2025-05-10 22:25,75,Cardiology,Cancer Screening,No
+P096,Hannah Simpson,Female,34,Yes,2025-05-29 18:25,36,Emergency,Hypertension,No
+P097,Diane Caldwell DDS,Female,77,Yes,2025-05-26 00:44,13,ENT,Cancer Screening,No
+P098,Manuel Powell,Male,32,Yes,2025-05-20 12:23,103,Emergency,Routine Checkup,No
+P099,Jose Benson,Male,37,No,2025-05-13 18:38,95,Internal Medicine,Diabetes,No
+P100,Michele Juarez,Female,70,No,2025-05-14 08:19,31,Orthopedics,Heart Surgery,No
+P101,Jacqueline Goodwin,Female,70,Yes,2025-05-05 05:30,49,Cardiology,Child Fever,No
+P102,Heather Summers,Male,45,No,2025-05-04 15:56,113,Internal Medicine,Fracture,No
+P103,Rachel Higgins,Female,22,Yes,2025-05-28 21:09,100,Gynecology,Fracture,Yes
+P104,Rodney Aguirre,Female,77,No,2025-05-26 01:56,52,Neurology,Allergy,No
+P105,Troy Suarez,Female,75,Yes,2025-05-23 10:43,107,Dermatology,Migraine,Yes
+P106,Jason Mccormick,Female,8,No,2025-05-12 04:46,51,Dermatology,Diabetes,No
+P107,Daniel Hayes,Female,30,Yes,2025-05-05 10:48,91,Gynecology,Routine Checkup,Yes
+P108,Tina Gonzalez,Male,61,Yes,2025-05-17 03:08,24,Gynecology,Routine Checkup,No
+P109,Carl Yates,Female,61,No,2025-05-06 12:36,55,Gynecology,Fracture,Yes
+P110,Juan Diaz,Male,77,Yes,2025-05-03 20:48,28,Emergency,Migraine,Yes
+P111,James Klein,Male,69,Yes,2025-05-24 22:39,29,Pediatrics,Diabetes,No
+P112,Tamara Campbell,Female,19,No,2025-05-26 10:36,85,Gynecology,Rash,Yes
+P113,Michael Jackson,Male,36,Yes,2025-05-13 20:10,11,Dermatology,Fracture,No
+P114,David Austin,Female,21,No,2025-05-18 18:33,28,Internal Medicine,Diabetes,Yes
+P115,Ashlee Bentley,Male,59,No,2025-05-07 04:31,54,Dermatology,Rash,Yes
+P116,Jason Powell,Female,46,No,2025-05-28 21:44,96,Neurology,Heart Surgery,No
+P117,Randy Phillips,Male,16,No,2025-05-16 18:40,18,Neurology,Migraine,No
+P118,Tanner Morales,Female,13,Yes,2025-05-15 20:09,97,Gynecology,Hypertension,Yes
+P119,Adam Williams,Female,80,No,2025-05-23 00:06,46,Pediatrics,Migraine,No
+P120,Sharon Brock,Female,85,No,2025-05-14 09:07,99,ENT,Routine Checkup,Yes
+P121,Jennifer Lam,Male,23,No,2025-05-20 13:19,108,Cardiology,Rash,Yes
+P122,Elizabeth Schroeder,Female,43,Yes,2025-05-14 22:37,71,Oncology,Fracture,No
+P123,Brent Dunn,Female,15,No,2025-05-13 18:52,112,Orthopedics,Heart Surgery,Yes
+P124,Miguel Price,Female,16,No,2025-05-04 17:19,29,Dermatology,Allergy,No
+P125,Linda Cross,Female,54,Yes,2025-05-06 14:33,64,Gynecology,Hypertension,Yes
+P126,Julia Hodges,Male,25,Yes,2025-05-16 13:11,26,Orthopedics,Fracture,No
+P127,Kayla West,Male,16,Yes,2025-05-02 15:22,8,Orthopedics,Allergy,Yes
+P128,Steven Wilson,Female,23,Yes,2025-05-05 19:40,21,Pediatrics,Migraine,Yes
+P129,Norman Garrett,Male,36,Yes,2025-05-24 13:46,18,Emergency,Cancer Screening,No
+P130,Robert Brady,Male,79,Yes,2025-05-29 01:43,106,Dermatology,Allergy,No
+P131,Jennifer Gutierrez,Female,64,Yes,2025-05-05 14:06,31,ENT,Migraine,Yes
+P132,Ann Rose,Female,28,No,2025-05-20 02:52,39,Dermatology,Heart Surgery,No
+P133,Manuel Johnson,Female,34,No,2025-05-19 14:48,54,ENT,Fracture,Yes
+P134,Christopher Ward,Male,84,No,2025-05-02 23:40,39,Emergency,Child Fever,No
+P135,Julie Owens,Male,2,Yes,2025-05-13 23:41,98,Pediatrics,Routine Checkup,No
+P136,Taylor Martin,Female,42,Yes,2025-05-01 11:41,25,Gynecology,Routine Checkup,Yes
+P137,Michael White,Female,79,No,2025-05-15 07:32,98,Pediatrics,Diabetes,No
+P138,Jennifer Mcdowell,Female,84,Yes,2025-05-15 21:44,120,ENT,Migraine,Yes
+P139,Stephanie Villarreal,Female,12,No,2025-05-21 22:00,105,Neurology,Cancer Screening,No
+P140,Marissa Vasquez,Male,13,Yes,2025-05-02 10:47,68,ENT,Hypertension,Yes
+P141,Linda Odonnell,Male,72,No,2025-05-06 13:42,13,Oncology,Hypertension,Yes
+P142,Angela Murray,Female,30,No,2025-05-29 02:22,120,ENT,Cancer Screening,No
+P143,Mary Ramirez,Male,74,Yes,2025-05-16 14:44,116,Emergency,Cancer Screening,No
+P144,Destiny Ramos,Male,67,Yes,2025-05-11 06:23,93,Orthopedics,Child Fever,No
+P145,Melissa Macdonald,Female,65,Yes,2025-05-24 00:09,58,Orthopedics,Diabetes,Yes
+P146,Zachary Torres,Female,50,No,2025-05-08 23:21,86,Gynecology,Hypertension,No
+P147,Tiffany Williams,Female,20,Yes,2025-05-13 00:07,105,ENT,Migraine,Yes
+P148,Amber Barton,Female,8,Yes,2025-05-28 05:02,5,Gynecology,Hypertension,Yes
+P149,Candice Hale,Male,90,No,2025-05-06 22:30,15,Oncology,Cancer Screening,No
+P150,Robert Chandler,Male,89,Yes,2025-05-21 06:39,53,Oncology,Diabetes,No
+P151,Julie Larson,Female,31,Yes,2025-05-21 12:28,72,Cardiology,Rash,No
+P152,Tina Hayes,Female,56,Yes,2025-05-26 10:30,100,Gynecology,Routine Checkup,No
+P153,Timothy Duran,Female,53,Yes,2025-05-30 09:29,79,Neurology,Rash,Yes
+P154,Kristy Thomas,Female,49,Yes,2025-05-07 13:24,96,ENT,Diabetes,Yes
+P155,Christopher Rowe,Female,52,Yes,2025-05-07 01:17,39,Oncology,Cancer Screening,No
+P156,Kevin Long,Female,66,No,2025-05-10 09:47,66,Cardiology,Fracture,No
+P157,Michelle Olson,Male,45,No,2025-05-14 06:17,15,Oncology,Cancer Screening,Yes
+P158,Courtney Le,Male,54,No,2025-05-02 03:27,8,ENT,Diabetes,No
+P159,Jonathan Baker Jr.,Male,46,No,2025-05-29 18:16,59,Dermatology,Migraine,No
+P160,Christy Chan,Female,12,No,2025-05-08 22:43,30,Neurology,Cancer Screening,Yes
+P161,Mitchell Butler,Female,84,Yes,2025-05-18 23:39,63,Oncology,Routine Checkup,No
+P162,David Rice,Female,3,Yes,2025-05-13 23:11,100,Cardiology,Allergy,No
+P163,Bill Bishop,Male,59,No,2025-05-16 00:32,67,ENT,Fracture,No
+P164,Karen Terry,Male,4,No,2025-05-23 20:18,45,Pediatrics,Allergy,Yes
+P165,Lisa Carroll,Male,3,No,2025-05-17 02:33,75,Orthopedics,Child Fever,Yes
+P166,James Moran,Female,77,No,2025-05-25 13:03,85,Cardiology,Routine Checkup,No
+P167,Antonio Gregory,Female,62,No,2025-05-01 06:33,112,Internal Medicine,Cancer Screening,Yes
+P168,Patricia Mendoza,Female,53,No,2025-05-22 00:46,90,Orthopedics,Routine Checkup,Yes
+P169,Jeffrey Griffin,Female,22,No,2025-05-25 20:37,118,Oncology,Routine Checkup,Yes
+P170,Joseph Conley,Female,86,Yes,2025-05-24 18:28,41,Neurology,Fracture,Yes
+P171,Anna Mendez,Female,47,No,2025-05-20 03:06,19,Pediatrics,Migraine,No
+P172,Devin Roberts,Female,17,Yes,2025-05-30 10:07,73,Neurology,Allergy,Yes
+P173,Elizabeth Smith,Male,13,Yes,2025-05-16 08:14,16,Internal Medicine,Rash,Yes
+P174,Sarah Jackson,Female,83,Yes,2025-05-28 16:15,28,ENT,Allergy,No
+P175,Amber Nash,Female,24,Yes,2025-05-07 06:31,115,Gynecology,Cancer Screening,Yes
+P176,Lori Holden,Male,61,No,2025-05-17 11:07,18,Neurology,Rash,No
+P177,David Ramos,Male,46,Yes,2025-05-29 02:15,92,Dermatology,Cancer Screening,No
+P178,Sarah Clark,Male,72,Yes,2025-05-10 23:19,109,Gynecology,Rash,Yes
+P179,Valerie Johnson,Male,77,Yes,2025-05-26 18:38,14,Gynecology,Child Fever,Yes
+P180,William Krueger,Male,17,Yes,2025-05-17 22:57,111,Internal Medicine,Allergy,Yes
+P181,Joshua Smith,Male,1,No,2025-05-04 06:00,49,Neurology,Cancer Screening,Yes
+P182,Samantha Vaughan,Male,42,No,2025-05-10 22:23,58,Emergency,Diabetes,Yes
+P183,Tracy Lawrence,Male,22,No,2025-05-18 19:01,9,Emergency,Migraine,No
+P184,Charles Shields,Male,33,No,2025-05-05 21:09,78,Dermatology,Rash,Yes
+P185,Alyssa Anderson,Female,70,No,2025-05-04 14:05,18,Orthopedics,Rash,No
+P186,Emily Allen,Male,79,No,2025-05-08 07:11,88,Orthopedics,Routine Checkup,No
+P187,Amy Lewis,Female,18,Yes,2025-05-05 18:24,108,Oncology,Routine Checkup,No
+P188,Ashley Kelley,Male,56,No,2025-05-28 10:51,38,Cardiology,Allergy,No
+P189,Brandon Woods,Male,12,No,2025-05-25 21:49,23,Gynecology,Cancer Screening,Yes
+P190,Thomas Jackson,Male,30,Yes,2025-05-28 02:15,18,ENT,Hypertension,Yes
+P191,Jared Montgomery,Male,64,Yes,2025-05-03 22:57,117,Neurology,Heart Surgery,No
+P192,Mr. Justin Franco PhD,Male,18,No,2025-05-09 01:48,91,Neurology,Rash,No
+P193,Larry Campbell,Male,37,Yes,2025-05-11 04:40,103,ENT,Heart Surgery,Yes
+P194,Patricia Briggs,Male,16,Yes,2025-05-12 14:26,51,Cardiology,Migraine,No
+P195,Keith Jenkins,Female,83,No,2025-05-23 20:55,32,Internal Medicine,Hypertension,No
+P196,Ashley Turner,Male,32,No,2025-05-04 06:58,98,Orthopedics,Heart Surgery,No
+P197,Gregory Black,Female,32,No,2025-05-12 08:06,74,Neurology,Routine Checkup,No
+P198,Jacob Shah,Male,55,Yes,2025-05-12 06:29,75,Emergency,Heart Surgery,No
+P199,Michael Suarez,Female,74,No,2025-05-13 22:10,111,ENT,Fracture,Yes
+P200,Michael Miranda,Female,31,No,2025-05-19 21:30,93,Neurology,Fracture,Yes
