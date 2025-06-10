@@ -1,0 +1,14 @@
+fastapi==0.111.0  # Specify a version for consistency, or remove to get the latest
+uvicorn==0.30.1  # Specify a version for consistency, or remove to get the latest
+pydantic==2.7.4  # Often a dependency of FastAPI, but good to explicitly list if you use it directly
+fastapi-cors==0.2.1 # The library you installed for CORS middleware
+# If you used 'uvicorn[standard]', it implies:
+# httptools
+# python-dotenv
+# PyYAML
+# watchdog
+# You might want to list these explicitly if you need them:
+# httptools
+# python-dotenv
+# PyYAML
+# watchdog
