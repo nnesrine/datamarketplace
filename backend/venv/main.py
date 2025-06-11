@@ -366,6 +366,7 @@ app = FastAPI()
 # Define the origins that are allowed to make requests to your API
 origins = [
     "http://localhost",
+    "https://frontdatamarketplace.netlify.app",
     "http://localhost:3000", # Common for Create React App
     "http://localhost:5173", # Common for Vite (if your app runs on 5173)
     "http://localhost:5174", # Add this if your React app is running on 5174
